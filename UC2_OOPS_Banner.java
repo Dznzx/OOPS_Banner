@@ -3,9 +3,9 @@ class UC2_OOPS_Banner {
         System.out.println(" *****   *****   *****   ***** ");
         System.out.println("*     * *     * *     * *     *");
         System.out.println("*     * *     * *     * *      ");
-        System.out.println("*     * *     * *     *  ***** ");
-        System.out.println("*     * *     * *     *       *");
-        System.out.println("*     * *     * *     * *     *");
-        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *  *  *  ***** ");
+        System.out.println("*     * *     * *             *");
+        System.out.println("*     * *     * *             *");
+        System.out.println(" *****   *****  *        ***** ");
     }
 }
