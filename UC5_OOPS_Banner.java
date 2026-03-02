@@ -4,10 +4,10 @@ class UC5_OOPS_Banner_ArrayInitialization {
             String.join(" ", "*****", "*****", "*****", "*****"),
             String.join(" ", "*   *", "*   *", "*   *", "*   *"),
             String.join(" ", "*   *", "*   *", "*   *", "*"),
-            String.join(" ", "*   *", "*   *", "*   *", "*****"),
-            String.join(" ", "*   *", "*   *", "*   *", "    *"),
-            String.join(" ", "*   *", "*   *", "*   *", "*   *"),
-            String.join(" ", "*****", "*****", "*****", "*****")
+            String.join(" ", "*   *", "*   *", "* * *", "*****"),
+            String.join(" ", "*   *", "*   *", "*    ", "    *"),
+            String.join(" ", "*   *", "*   *", "*    ", "*   *"),
+            String.join(" ", "*****", "*****", "*    ", "*****")
         };
         for (String line : banner) {
             System.out.println(line);
