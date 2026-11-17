@@ -5,6 +5,6 @@
 class OOPS{
 	public static void main(String args[]){
 		System.out.println("This is Develop branch");
-		system.out.println("OOP Banner");
+		System.out.println("OOP Banner");
 	}
 } 
